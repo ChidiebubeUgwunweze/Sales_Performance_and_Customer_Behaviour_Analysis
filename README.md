@@ -109,7 +109,7 @@ It contains transactional sales data including:
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-link>
+   git clone <this-repository-link>
    ```
 
 2. Install required libraries:
