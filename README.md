@@ -110,3 +110,42 @@ It contains transactional sales data including:
 
    ```bash
    git clone <your-repository-link>
+   ```
+
+2. Install required libraries:
+
+    ```bash
+    pip install pandas matplotlib seaborn
+    ```
+
+3. Ensure ```sales_data.csv``` is in the project directory.
+
+4. Open the Jupyter Notebook:
+
+    ```bash
+        jupyter notebook
+    ```
+
+5. Run all cells to reproduce the analysis and visualizations.
+
+---
+
+## 📊 Visualizations Included
+
+- Monthly Sales Line Chart
+- Top 10 Products Bar Chart
+- Customer Segment Pie Chart
+- Regional Sales Analysis
+
+## 📁 Project Structure
+
+<pre>
+├── Sales Analysis and Formatting.ipynb
+├── sales_data.csv
+└── README.md
+</pre>
+
+
+## ✍️ Author
+
+**Eze Ugwunweze**
